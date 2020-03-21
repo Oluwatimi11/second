@@ -1,0 +1,42 @@
+#mood {
+    text-align: center;
+    font-weight: 1000;
+    font-family:monospace ;
+    letter-spacing: 6px ;
+
+    font-size: 100px;
+}
+h1 {
+    text-align: left;
+    font-family: "Times New Roman";
+    padding: 20px 15px;
+    letter-spacing: 0px;
+} 
+
+h5 {
+    font-weight: 1000;
+}
+.details {
+    background-color: white;
+    color: rgb(7, 105, 7);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#book {
+    color: rgb(240, 80, 80);
+    text-align: center;
+}
+
+#folder {
+    background-color: rgb(39, 85, 39);
+    color: black;
+    text-align: center;
+    padding: 15px 15px;
+}
+
+#sweet {
+    background-color: rgb(39, 85, 39);
+    text-align: left;
+    padding: 30px 60px;
+    color: black;
+}
